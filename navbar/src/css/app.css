@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    height: 56px;
+  }
+  
+  .content-wrapper {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 250px;
+    background-color: #f8f9fa;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+  }
+  
